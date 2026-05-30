@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120">
+  <rect width="800" height="120" fill="#f59e0b"/>
+  <rect x="0" y="110" width="800" height="10" fill="#4338ca"/>
+  <text x="40" y="55" font-family="Inter, system-ui, sans-serif" font-size="22" font-weight="800" fill="#1f2937">Get the Data Projects Notion Pack</text>
+  <text x="40" y="85" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="500" fill="#374151">Full blueprints, datasets, and stack maps</text>
+  <text x="640" y="65" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700" fill="#1f2937">Grab it -></text>
+</svg>
