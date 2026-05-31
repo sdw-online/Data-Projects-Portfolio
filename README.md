@@ -7,10 +7,8 @@
 <p align="center"><sub><b>41 project shorts</b> &nbsp;·&nbsp; <b>45.2K total views</b> &nbsp;·&nbsp; full-length builds below &nbsp;·&nbsp; <a href="https://www.youtube.com/@sdw-online?sub_confirmation=1">subscribe</a></sub></p>
 
 <p align="center">
-  <img src="./assets/banners/notion-cta.svg" alt="Get the Data Projects Notion Pack" width="100%"/>
+  <a href="https://sdwdataprojects.carrd.co/"><img src="./assets/banners/notion-cta.svg" alt="Get the Data Projects Notion Pack" width="100%"/></a>
 </p>
-
-<!-- TODO(stephen): Notion URL - wrap the img above in an anchor tag once the product page is ready -->
 
 ## What's inside
 
@@ -20,9 +18,13 @@
 
 <sub>Deep walkthroughs - end-to-end project tutorials.</sub>
 
-> Coming soon.
-
-<!-- TODO(stephen): full-length video IDs - pass them via --full-length=id1,id2,... when regenerating -->
+<table>
+<tr>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=XbqF0-mQhH0"><img src="https://img.youtube.com/vi/XbqF0-mQhH0/hqdefault.jpg" width="280"/></a>
+</td>
+</tr>
+</table>
 
 ## Shorts catalogue
 
@@ -224,10 +226,8 @@
 </table>
 
 <p align="center">
-  <img src="./assets/banners/notion-cta.svg" alt="Get the Data Projects Notion Pack" width="100%"/>
+  <a href="https://sdwdataprojects.carrd.co/"><img src="./assets/banners/notion-cta.svg" alt="Get the Data Projects Notion Pack" width="100%"/></a>
 </p>
-
-<!-- TODO(stephen): Notion URL - wrap the img above in an anchor tag once the product page is ready -->
 
 ## More from Stephen | Data
 
