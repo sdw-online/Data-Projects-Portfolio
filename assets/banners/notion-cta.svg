@@ -1,38 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0" stop-color="#1e1b4b"/>
+      <stop offset="0.5" stop-color="#312e81"/>
       <stop offset="1" stop-color="#1e293b"/>
     </linearGradient>
-    <linearGradient id="amberEdge" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#fbbf24"/>
-      <stop offset="1" stop-color="#d97706"/>
-    </linearGradient>
     <pattern id="dots" x="0" y="0" width="22" height="22" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="0.7" fill="#fbbf24" opacity="0.04"/>
+      <circle cx="2" cy="2" r="0.7" fill="#ffffff" opacity="0.05"/>
     </pattern>
   </defs>
-  <rect width="1200" height="160" fill="url(#bg)"/>
-  <rect width="1200" height="160" fill="url(#dots)"/>
+  <rect width="1200" height="200" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="200" rx="14" fill="url(#dots)"/>
+  <rect width="1200" height="200" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
 
-  <rect width="6" height="160" fill="url(#amberEdge)"/>
-
-  <g transform="translate(40, 40)">
-    <rect width="80" height="80" rx="14" fill="#1f2937" stroke="#f59e0b" stroke-opacity="0.4" stroke-width="1.5"/>
-    <text x="40" y="55" text-anchor="middle" font-family="Inter, sans-serif" font-size="38" font-weight="800" fill="#f59e0b" letter-spacing="-1">N</text>
+  <g transform="translate(60, 56)">
+    <rect x="14" y="14" width="74" height="74" rx="10" fill="none" stroke="#a5b4fc" stroke-opacity="0.25" stroke-width="2"/>
+    <rect x="7" y="7" width="74" height="74" rx="10" fill="none" stroke="#a5b4fc" stroke-opacity="0.45" stroke-width="2"/>
+    <rect x="0" y="0" width="74" height="74" rx="10" fill="#312e81" stroke="#ffffff" stroke-opacity="0.3" stroke-width="2"/>
+    <line x1="14" y1="26" x2="60" y2="26" stroke="#a5b4fc" stroke-opacity="0.6" stroke-width="2" stroke-linecap="round"/>
+    <line x1="14" y1="38" x2="50" y2="38" stroke="#a5b4fc" stroke-opacity="0.45" stroke-width="2" stroke-linecap="round"/>
+    <line x1="14" y1="50" x2="56" y2="50" stroke="#a5b4fc" stroke-opacity="0.45" stroke-width="2" stroke-linecap="round"/>
+    <line x1="14" y1="62" x2="44" y2="62" stroke="#a5b4fc" stroke-opacity="0.3" stroke-width="2" stroke-linecap="round"/>
   </g>
 
-  <g transform="translate(150, 0)">
-    <text x="0" y="66" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="700" fill="#f59e0b" letter-spacing="2.2">NOTION PACK</text>
-    <text x="0" y="98" font-family="Inter, -apple-system, sans-serif" font-size="24" font-weight="800" fill="#ffffff" letter-spacing="-0.6">Get the Data Projects Notion Pack</text>
-    <text x="0" y="124" font-family="Inter, sans-serif" font-size="14" font-weight="400" fill="#9ca3af" letter-spacing="-0.2">Full blueprints, datasets, and stack maps</text>
+  <g transform="translate(200, 0)">
+    <text x="0" y="68" font-family="Inter, -apple-system, sans-serif" font-size="13" font-weight="700" fill="#a5b4fc" letter-spacing="2.4">THE DATA PROJECTS PACK</text>
+    <text x="0" y="110" font-family="Inter, -apple-system, sans-serif" font-size="30" font-weight="800" fill="#ffffff" letter-spacing="-0.8">Get the Data Projects Pack</text>
+    <text x="0" y="142" font-family="Inter, -apple-system, sans-serif" font-size="15" font-weight="400" fill="#cbd5e1" letter-spacing="-0.1">Full blueprints, datasets, and stack maps. Everything inside.</text>
   </g>
 
-  <g transform="translate(1110, 80)">
-    <circle r="26" fill="#f59e0b"/>
-    <circle r="26" fill="none" stroke="#fbbf24" stroke-opacity="0.5" stroke-width="2"/>
-    <path d="M -7 0 L 7 0 M 2 -6 L 8 0 L 2 6" stroke="#1f2937" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <g transform="translate(1110, 100)">
+    <circle r="32" fill="#312e81" stroke="#a5b4fc" stroke-opacity="0.45" stroke-width="2"/>
+    <path d="M -9 0 L 9 0 M 2 -8 L 10 0 L 2 8" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
   </g>
 
-  <line x1="150" y1="140" x2="1060" y2="140" stroke="#f59e0b" stroke-opacity="0.18" stroke-width="1"/>
+  <line x1="200" y1="170" x2="1070" y2="170" stroke="#a5b4fc" stroke-opacity="0.18" stroke-width="1"/>
 </svg>
