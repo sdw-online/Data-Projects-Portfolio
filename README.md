@@ -91,6 +91,35 @@ flowchart LR
 </tr>
 </table>
 
+## Find your angle
+
+<sub>The catalogue skews heavily toward data engineering. If you want analytics / dashboards / viz, here's where to start.</sub>
+
+```mermaid
+flowchart LR
+    Q{What are you<br/>here for?}
+    Q -->|Pipelines, cloud,<br/>ingestion, ETL| E[Scroll the full<br/>catalogue below]
+    Q -->|Analytics, dashboards,<br/>visualisation| A[Most-watched<br/>analytics shorts]
+    A --> HRkwWZqlqcs[SQL Server &rarr; Postgres<br/>(Matplotlib)]
+    A --> N7heU_hucAk[SEC EDGAR<br/>financial data analysis]
+    A --> 4BUjYzoMuII[Web scraping +<br/>data visualisation (Python)]
+    A --> 2DkPfakLpJs[Excel &rarr; Power BI<br/>weekend project]
+
+    click HRkwWZqlqcs "https://www.youtube.com/shorts/HRkwWZqlqcs" _blank
+    click N7heU_hucAk "https://www.youtube.com/shorts/N7heU_hucAk" _blank
+    click 4BUjYzoMuII "https://www.youtube.com/shorts/4BUjYzoMuII" _blank
+    click 2DkPfakLpJs "https://www.youtube.com/shorts/2DkPfakLpJs" _blank
+
+    classDef q fill:#0f172a,stroke:#a5b4fc,stroke-width:2px,color:#ffffff
+    classDef e fill:#312e81,stroke:#818cf8,stroke-width:2px,color:#ffffff
+    classDef a fill:#1e293b,stroke:#22d3ee,stroke-width:2px,color:#ffffff
+    class Q q
+    class E e
+    class A,HRkwWZqlqcs,N7heU_hucAk,4BUjYzoMuII,2DkPfakLpJs a
+```
+
+<sub><i>Click any analytics tile to jump straight to YouTube.</i></sub>
+
 ## Shorts catalogue
 
 <sub>41 data project shorts, sorted by what landed hardest.</sub>
