@@ -57,34 +57,34 @@ flowchart LR
 <table>
 <tr>
 <td align="center" width="33%" valign="top">
-  <a href="https://blog.dataengineerthings.org/data-pipelines-with-python-and-sql-part-1-eea0ddceacd6"><img src="https://miro.medium.com/v2/resize:fit:1400/1*Y3weSkVG5Er_MifkS919VA.png" width="280" alt="Data pipelines with Python and SQL - Part 1"/></a><br/>
-  <sub><b>Data pipelines with Python and SQL - Part 1</b></sub><br/>
-  <sub><i>What data pipelines are and how Python and SQL slot in.</i></sub>
-</td>
-<td align="center" width="33%" valign="top">
-  <a href="https://blog.dataengineerthings.org/data-pipelines-with-python-and-sql-part-2-80ac09ac1eb7"><img src="https://miro.medium.com/v2/resize:fit:1400/1*UOCNuj-xmvApKpI0GIbsaQ.png" width="280" alt="Data pipelines with Python and SQL - Part 2"/></a><br/>
-  <sub><b>Data pipelines with Python and SQL - Part 2</b></sub><br/>
-  <sub><i>Build a real-world ETL pipeline and dashboard.</i></sub>
-</td>
-<td align="center" width="33%" valign="top">
-  <a href="https://levelup.gitconnected.com/rest-api-to-mysql-database-using-python-eb7b4606d6c3"><img src="https://miro.medium.com/v2/resize:fit:1400/1*dxJQTl7ka2vfSAtdsWxbKw.png" width="280" alt="REST API to MySQL database using Python"/></a><br/>
-  <sub><b>REST API to MySQL database using Python</b></sub><br/>
-  <sub><i>Import data from a public API into a relational store.</i></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%" valign="top">
   <a href="https://levelup.gitconnected.com/create-a-web-scraping-pipeline-with-python-using-data-contracts-281a30440442"><img src="https://miro.medium.com/v2/resize:fit:1400/1*nvX3cK7jWzVKW6mrxPwmOw.gif" width="280" alt="Web scraping pipeline with Python + data contracts"/></a><br/>
   <sub><b>Web scraping pipeline with Python + data contracts</b></sub><br/>
   <sub><i>Add data-quality contracts to each source layer.</i></sub>
 </td>
 <td align="center" width="33%" valign="top">
-  <a href="https://blog.dataengineerthings.org/use-data-contracts-to-automate-data-workflows-part-1-ab8ca6d3e5e9"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*kBFOttYi5DjGRjSn" width="280" alt="Use data contracts to automate data workflows - Part 1"/></a><br/>
+  <a href="https://blog.dataengineerthings.org/data-pipelines-with-python-and-sql-part-1-eea0ddceacd6"><img src="./assets/diagrams/data-pipelines-py-sql-part-1.svg" width="280" alt="Data pipelines with Python and SQL - Part 1"/></a><br/>
+  <sub><b>Data pipelines with Python and SQL - Part 1</b></sub><br/>
+  <sub><i>What data pipelines are and how Python and SQL slot in.</i></sub>
+</td>
+<td align="center" width="33%" valign="top">
+  <a href="https://blog.dataengineerthings.org/data-pipelines-with-python-and-sql-part-2-80ac09ac1eb7"><img src="./assets/diagrams/data-pipelines-py-sql-part-2.svg" width="280" alt="Data pipelines with Python and SQL - Part 2"/></a><br/>
+  <sub><b>Data pipelines with Python and SQL - Part 2</b></sub><br/>
+  <sub><i>Build a real-world ETL pipeline and dashboard.</i></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%" valign="top">
+  <a href="https://levelup.gitconnected.com/rest-api-to-mysql-database-using-python-eb7b4606d6c3"><img src="./assets/diagrams/rest-api-to-mysql-python.svg" width="280" alt="REST API to MySQL database using Python"/></a><br/>
+  <sub><b>REST API to MySQL database using Python</b></sub><br/>
+  <sub><i>Import data from a public API into a relational store.</i></sub>
+</td>
+<td align="center" width="33%" valign="top">
+  <a href="https://blog.dataengineerthings.org/use-data-contracts-to-automate-data-workflows-part-1-ab8ca6d3e5e9"><img src="./assets/diagrams/data-contracts-part-1.svg" width="280" alt="Use data contracts to automate data workflows - Part 1"/></a><br/>
   <sub><b>Use data contracts to automate data workflows - Part 1</b></sub><br/>
   <sub><i>Create data everyone can trust.</i></sub>
 </td>
 <td align="center" width="33%" valign="top">
-  <a href="https://blog.dataengineerthings.org/use-data-contracts-to-automate-data-workflows-part-2-c473267014ed"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*F1kIKVSHzagQU0t2" width="280" alt="Use data contracts to automate data workflows - Part 2"/></a><br/>
+  <a href="https://blog.dataengineerthings.org/use-data-contracts-to-automate-data-workflows-part-2-c473267014ed"><img src="./assets/diagrams/data-contracts-part-2.svg" width="280" alt="Use data contracts to automate data workflows - Part 2"/></a><br/>
   <sub><b>Use data contracts to automate data workflows - Part 2</b></sub><br/>
   <sub><i>Generate that trusted data automatically.</i></sub>
 </td>
