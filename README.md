@@ -41,6 +41,12 @@ flowchart LR
 <td align="center" width="33%">
   <a href="https://www.youtube.com/watch?v=XbqF0-mQhH0"><img src="https://img.youtube.com/vi/XbqF0-mQhH0/hqdefault.jpg" width="280"/></a>
 </td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=mm_sN-Elplg"><img src="https://img.youtube.com/vi/mm_sN-Elplg/hqdefault.jpg" width="280"/></a>
+</td>
+<td align="center" width="33%">
+  <a href="https://www.youtube.com/watch?v=w8Mvb79zRpA"><img src="https://img.youtube.com/vi/w8Mvb79zRpA/hqdefault.jpg" width="280"/></a>
+</td>
 </tr>
 </table>
 
