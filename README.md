@@ -10,6 +10,24 @@
   <a href="https://sdwdataprojects.carrd.co/"><img src="./assets/banners/notion-cta.svg" alt="Get the Data Projects Notion Pack" width="100%"/></a>
 </p>
 
+## How this works
+
+Four steps. Browse, watch, build, package.
+
+```mermaid
+flowchart LR
+    A([Browse the<br/>full-length builds]) --> B([Watch one<br/>end-to-end])
+    B --> C([Build it<br/>yourself])
+    C --> D([Want the<br/>full blueprints?])
+    D --> N([Get the<br/>Notion Pack])
+
+    style A fill:#312e81,stroke:#a5b4fc,stroke-width:2px,color:#ffffff
+    style B fill:#4338ca,stroke:#a5b4fc,stroke-width:2px,color:#ffffff
+    style C fill:#4f46e5,stroke:#a5b4fc,stroke-width:2px,color:#ffffff
+    style D fill:#6366f1,stroke:#a5b4fc,stroke-width:2px,color:#ffffff
+    style N fill:#f59e0b,stroke:#fbbf24,stroke-width:2px,color:#1f2937
+```
+
 ## What's inside
 
 <sub>Full-length project builds at the top - the substantive walkthroughs that show how the work actually gets done. Shorts catalogue below - bite-size demonstrations of the same skills. Pair them however you learn best.</sub>
