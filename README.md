@@ -10,6 +10,10 @@
   <a href="https://sdwdataprojects.carrd.co/"><img src="./assets/banners/notion-cta.svg" alt="Get the Data Projects Pack" width="100%"/></a>
 </p>
 
+<p align="center">
+  <a href="https://data100x.carrd.co/"><img src="./assets/banners/community-cta.svg" alt="Join the free data community" width="100%"/></a>
+</p>
+
 ## How this works
 
 Four steps. Browse, watch, build, package.
